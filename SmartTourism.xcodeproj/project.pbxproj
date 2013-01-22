@@ -78,6 +78,9 @@
 		2ED502AA16AE39F400BD5051 /* SmartTourism */ = {
 			isa = PBXGroup;
 			children = (
+				2ED502C516AE3C1200BD5051 /* Class */,
+				2ED502C716AE3C2500BD5051 /* LIB */,
+				2ED502C816AE3C5700BD5051 /* image */,
 				2ED502B316AE39F400BD5051 /* ZLAppDelegate.h */,
 				2ED502B416AE39F400BD5051 /* ZLAppDelegate.m */,
 				2ED502AB16AE39F400BD5051 /* Supporting Files */,
@@ -97,6 +100,27 @@
 				2ED502BA16AE39F400BD5051 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2ED502C516AE3C1200BD5051 /* Class */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Class;
+			sourceTree = "<group>";
+		};
+		2ED502C716AE3C2500BD5051 /* LIB */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LIB;
+			sourceTree = "<group>";
+		};
+		2ED502C816AE3C5700BD5051 /* image */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -275,6 +299,7 @@
 				2ED502C016AE39F400BD5051 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
